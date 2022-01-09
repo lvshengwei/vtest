@@ -5,14 +5,14 @@
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "4a3d767b-6909-4e46-9228-486992aed399"
         },
         "WSPATH": {
             "description": "WebSocket Path",
-            "value": "/"
+            "value": "/ray"
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "repository": "https://github.com/lvshengwei/vtest",
     "stack": "container"
 }
